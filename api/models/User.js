@@ -20,6 +20,9 @@ module.exports = {
     description: {
       type: 'string'
     },
+    email: {
+      type: 'string'
+  },
     profilePicture: {
       type: 'string'
     },
